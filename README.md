@@ -1,2 +1,2 @@
 # bad-memory
-Examples from a presentation about memory bugs in C
+A presentation with examples about memory bugs in C.
